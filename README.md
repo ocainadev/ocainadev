@@ -3,7 +3,7 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando ADS na UNICESUMAR.
 - 💼 Trabalhando como BackEnd Developer.
-- 🌱 Aprendendo mais sobre C#, PHP, GOLANG, JAVA.
+- 🌱 Aprendendo mais sobre C#, JS.
 
 ## Minhas Skills
 
