@@ -1,7 +1,6 @@
 # Hello! I am Cainã 👋
 
-🎓 Student of Software Enginner
-💻 Backend Developer
+🎓 Software Engineering Student | Backend Developer
 
 
 ## Tech Stack
