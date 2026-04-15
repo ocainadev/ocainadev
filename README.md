@@ -2,7 +2,6 @@
 
 🎓 Software Engineering Student | Backend Developer
 
-
 ## Tech Stack
 
 **Languages**  
@@ -22,14 +21,11 @@ OOP, Layered Architecture, CRUD, Relational Database Modeling
 
 ## Featured Projects
 
-🔗 **Freelancer Management API**  
-API for managing freelance projects, users and proposals using .NET and SQL Server.
-
 🔗 **User Management API**  
 REST API built with Spring Boot and PostgreSQL for managing application users.
 
-🔗 **URL Shortener API**  
-API developed with ASP.NET Core and Entity Framework to generate and redirect short links.
+🔗 **Freelancer Management API**  
+API for managing freelance projects, users and proposals using .NET and SQL Server.
 
 ## Contato
 
